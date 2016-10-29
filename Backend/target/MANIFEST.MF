@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: FileUploadCommonsExample Maven Webapp
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: uk.bbc.fileupload
+Build-Jdk: 1.8.0_45
+Built-By: ferrem01
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+
